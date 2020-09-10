@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/joybgr.png</file>
+        <file>JoyPad.qml</file>
+        <file>ControlPage.qml</file>
+        <file>Slider.qml</file>
+        <file>Switch.qml</file>
+        <file>images/Helvetica.ttf</file>
+        <file>images/HelveticaSemiBold.ttf</file>
+        <file>ItemParameter.qml</file>
+        <file>images/settings.png</file>
+        <file>Setting1Page.qml</file>
+        <file>images/back.png</file>
+        <file>RadioButton.qml</file>
+        <file>images/controlPage.png</file>
+        <file>Setting2Page.qml</file>
+        <file>images/vigasan.png</file>
+    </qresource>
+</RCC>
